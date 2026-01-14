@@ -37,3 +37,5 @@ def date_diff(date1, date2):
 
 print(date_diff("25-12-1999", "9-3-2000"))  # 76
 print("jkjk")
+print("future-1")
+print("feature-2")
